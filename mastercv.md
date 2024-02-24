@@ -1,33 +1,31 @@
 # Andrew Desrochers
 (they/them/iel)
-linkedin.com/in/andrew-desrochers
-https://github.com/andrew-desrochers
-andrewdesrochers@protonmail.com
+linkedin.com/in/andrew-desrochers | https://github.com/andrew-desrochers | andrewdesrochers@protonmail.com
 
 ## Profile
 Curious, creative, resilient, and adaptive. Love of learning, enjoys problem-solving, and is dedicated to personal and professional growth. Reliable, motivated, values open and cooperative teamwork.
 
 ## Education
-Master of Information Studies (Non-Thesis)
+**Master of Information Studies** (Non-Thesis)
 McGill University, 2024
 Specialization in Library Studies
 CGPA: 
 
-B.A. in Women's Studies (With Distinction)
+**B.A. in Women's Studies** (With Distinction)
 Concordia University, 2022
 CGPA: 
 
-DEC Early Childhood Education
+**DEC Early Childhood Education**
 CÉGEP Vanier College, 2013
 
 ## Software/Skills
-Adobe Indesign
-Affinity Publisher
-Affinity Designer
-LibGuides
-Omeka
-Scrivener
-Procreate
+Adobe Indesign<br>
+Affinity Publisher<br>
+Affinity Designer<br>
+LibGuides<br>
+Omeka<br>
+Scrivener<br>
+Procreate<br>
 
 ## Languages
 English (Fluent)
